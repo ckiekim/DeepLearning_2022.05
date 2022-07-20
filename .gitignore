@@ -2,6 +2,7 @@
 kaggle.json
 etriaikey.txt
 exercise.ipynb
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
