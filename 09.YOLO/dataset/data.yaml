@@ -1,0 +1,5 @@
+names:
+- pistol
+nc: 1
+train: /content/dataset/train.txt
+val: /content/dataset/val.txt
